@@ -11,7 +11,7 @@ import com.paypal.svcs.types.common.RequestEnvelope;
 // # ExecutePayment API
 // The ExecutePayment API operation lets you execute a payment set up with the Pay API operation with the actionType CREATE. To pay receivers identified in the Pay call, set the pay key from the PayResponse message in the ExecutePaymentRequest message.
 // This sample code uses AdaptivePayments Java SDK to make API call. You can
-// download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/java)
 public class ExecutePayment {
 
 	public ExecutePaymentResponse executePayment() {

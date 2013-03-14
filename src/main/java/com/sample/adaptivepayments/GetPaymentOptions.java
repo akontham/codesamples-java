@@ -11,7 +11,7 @@ import com.paypal.svcs.types.common.RequestEnvelope;
 // # GetPaymentOptions API
 // You use the GetPaymentOptions API operation to retrieve the payment options passed with the SetPaymentOptionsRequest.
 // This sample code uses AdaptivePayments Java SDK to make API call. You can
-// download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/java)
 public class GetPaymentOptions {
 
 	public GetPaymentOptionsResponse getPaymentOptions() {

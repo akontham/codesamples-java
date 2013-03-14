@@ -17,7 +17,7 @@ import com.paypal.svcs.types.pt.PaymentTermsType;
 // # UpdateInvoice API
 // Use the UpdateInvoice API operation to update an invoice
 // This sample code uses Invoice Java SDK to make API call. You can
-// download the SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDKs [here](https://github.com/paypal/sdk-packages/tree/gh-pages/invoice-sdk/java)
 public class UpdateInvoice {
 
 	public UpdateInvoiceResponse updateInvoice() {

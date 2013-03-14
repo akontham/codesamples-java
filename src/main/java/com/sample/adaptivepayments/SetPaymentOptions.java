@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.util.logging.Logger;
 
 import com.paypal.svcs.services.AdaptivePaymentsService;
-import com.paypal.svcs.types.ap.DisplayOptions;
 import com.paypal.svcs.types.ap.SetPaymentOptionsRequest;
 import com.paypal.svcs.types.ap.SetPaymentOptionsResponse;
 import com.paypal.svcs.types.common.RequestEnvelope;
@@ -12,7 +11,7 @@ import com.paypal.svcs.types.common.RequestEnvelope;
 // # SetPaymentOptions API
 // You use the SetPaymentOptions API operation to specify settings for a payment of the actionType `CREATE`. This actionType is specified in the PayRequest message.
 // This sample code uses AdaptivePayments Java SDK to make API call. You can
-// download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/java)
 public class SetPaymentOptions {
 
 	public SetPaymentOptionsResponse setPaymentOptions() {

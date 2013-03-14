@@ -12,7 +12,7 @@ import com.paypal.svcs.types.perm.RequestPermissionsResponse;
 // # RequestPermissions API
 // Use the RequestPermissions API operation to request permissions to execute API operations on a PayPal account holder's behalf.
 // This sample code uses Permissions Java SDK to make API call. You can
-// download the SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDKs [here](https://github.com/paypal/sdk-packages/tree/gh-pages/permissions-sdk/java)
 public class RequestPermissions {
 
 	public RequestPermissionsResponse requestPermissions() {

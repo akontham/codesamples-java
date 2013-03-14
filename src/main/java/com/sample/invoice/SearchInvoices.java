@@ -12,7 +12,7 @@ import com.paypal.svcs.types.pt.SearchParametersType;
 // # SearchInvoices API
 // Use the SearchInvoice API operation to search an invoice.
 // This sample code uses Invoice Java SDK to make API call. You can
-//  the SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+//  the SDKs [here](https://github.com/paypal/sdk-packages/tree/gh-pages/invoice-sdk/java)
 public class SearchInvoices {
 
 	public SearchInvoicesResponse searchInvoices() {

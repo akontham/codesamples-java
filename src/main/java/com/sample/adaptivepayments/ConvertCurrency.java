@@ -18,7 +18,7 @@ import com.paypal.svcs.types.common.RequestEnvelope;
 // # ConvertCurrency API
 // Use the ConvertCurrency API operation to request the current foreign exchange (FX) rate for a specific amount and currency.
 // This sample code uses AdaptivePayments Java SDK to make API call. You can
-// download the SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDKs [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/java)
 public class ConvertCurrency {
 
 	public ConvertCurrencyResponse convertCurrency() {

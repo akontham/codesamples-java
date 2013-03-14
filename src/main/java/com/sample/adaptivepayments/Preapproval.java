@@ -20,7 +20,7 @@ import com.paypal.svcs.types.common.RequestEnvelope;
 // * whether or not a PIN is required for each payment request.
 // 
 // This sample code uses AdaptivePayments Java SDK to make API call. You can
-// download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/java)
 
 public class Preapproval {
 

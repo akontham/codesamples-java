@@ -20,7 +20,7 @@ import com.paypal.svcs.types.common.RequestEnvelope;
 // The CreateAccount API operation enables you to create a PayPal account on
 // behalf of a third party.
 // This sample code uses AdaptiveAccounts Java SDK to make API call. You can
-// download the SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDKs [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptiveaccounts-sdk/java)
 public class CreateAccount {
 
 	Logger logger = Logger.getLogger(this.getClass().toString());

@@ -15,7 +15,7 @@ import com.paypal.svcs.types.common.RequestEnvelope;
 // # Pay API
 // Use the Pay API operation to transfer funds from a sender's PayPal account to one or more receivers' PayPal accounts. You can use the Pay API operation to make simple payments, chained payments, or parallel payments; these payments can be explicitly approved, preapproved, or implicitly approved.
 // This sample code uses AdaptivePayments Java SDK to make API call. You can
-// download the SDK [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDK [here](https://github.com/paypal/sdk-packages/tree/gh-pages/adaptivepayments-sdk/java)
 public class Pay {
 
 	PayRequest payRequest;

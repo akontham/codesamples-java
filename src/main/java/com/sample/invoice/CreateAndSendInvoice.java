@@ -17,7 +17,7 @@ import com.paypal.svcs.types.pt.PaymentTermsType;
 // # CreateAndSendInvoice API
 // Use the CreateAndSendInvoice API operation to create and send an invoice.
 // This sample code uses Invoice Java SDK to make API call. You can
-// download the SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDKs [here](https://github.com/paypal/sdk-packages/tree/gh-pages/invoice-sdk/java)
 public class CreateAndSendInvoice {
 
 	public CreateAndSendInvoiceResponse createAndSendInvoice() {

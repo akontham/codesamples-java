@@ -10,7 +10,7 @@ import com.paypal.svcs.types.perm.GetAccessTokenResponse;
 // # GetAccessToken API
 // Use the GetAccessToken API operation to obtain an access token for a set of permissions.
 // This sample code uses Permissions Java SDK to make API call. You can
-// download the SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDKs [here](https://github.com/paypal/sdk-packages/tree/gh-pages/permissions-sdk/java)
 public class GetAccessToken {
 
 	public GetAccessTokenResponse getAccessToken() {

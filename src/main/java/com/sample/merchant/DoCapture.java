@@ -16,7 +16,7 @@ import urn.ebay.apis.eBLBaseComponents.ErrorType;
 // # DoCapture API
 // Captures an authorized payment.
 // This sample code uses Merchant Java SDK to make API call. You can
-// download the SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
+// download the SDKs [here](https://github.com/paypal/sdk-packages/tree/gh-pages/merchant-sdk/java)
 public class DoCapture {
 
 		public DoCaptureResponseType doCapture() {
