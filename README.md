@@ -1,5 +1,7 @@
 This repository contains code samples for AdaptiveAccounts, AdaptivePayments, Permissions, Invoicing and Merchant classic APIs.
 
+To know more about APIs, refer to https://developer.paypal.com/.
+
 Prerequisites:
 ---------------
 *	Java jdk-1.5 or higher
@@ -8,10 +10,9 @@ Prerequisites:
 
 SDK Integration:
 ----------------
-*	To download or learn more about PayPal SDKs, please see http://paypal.github.io/sdk/
+*	To download or learn more about PayPal SDKs, please see http://paypal.github.io/sdk/.
 
 Testing:
 ---------
 *	Unit test cases for samples are under `src/main/test`, run the test cases using `mvn test`.
 
-To know more about APIs, refer to https://developer.paypal.com/.
