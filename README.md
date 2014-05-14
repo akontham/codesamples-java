@@ -1,4 +1,4 @@
-This repository contains code samples for AdaptiveAccounts, AdaptivePayments, Permissions, Invoicing and Merchant APIs.
+This repository contains code samples for AdaptiveAccounts, AdaptivePayments, Permissions, Invoicing and Merchant classic APIs.
 
 Prerequisites:
 ---------------
@@ -8,11 +8,10 @@ Prerequisites:
 
 SDK Integration:
 ----------------
-*	Download SDKs [here](https://www.x.com/developers/paypal/documentation-tools/paypal-sdk-index)
-*	To know more about SDKs refer http://paypal.github.com/
+*	To download or learn more about PayPal SDKs, please see http://paypal.github.io/sdk/
 
 Testing:
 ---------
 *	Unit test cases for samples are under `src/main/test`, run the test cases using `mvn test`.
 
-To know more about APIs, refer https://www.x.com/developers/paypal/documentation-tools/api
+To know more about APIs, refer to https://developer.paypal.com/.
