@@ -10,7 +10,7 @@ Prerequisites:
 
 SDK Integration:
 ----------------
-*	To download or learn more about PayPal SDKs, please see http://paypal.github.io/sdk/.
+*	See the [PayPal SDK Index](https://developer.paypal.com/docs/classic/lifecycle/sdks/) to learn more about PayPal SDKs.
 
 Testing:
 ---------
